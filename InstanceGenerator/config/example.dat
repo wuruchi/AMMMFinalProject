@@ -1,0 +1,15 @@
+# file name: instances/instance_XX.dat
+instancesDirectory = instances;
+fileNamePrefix = small_instances;
+fileNameExtension = dat;
+numInstances = 5;
+nBuses = 200;
+nDrivers = 200;
+minCapacity = 175;
+maxCapacity = 275;
+
+nServices = 400;
+minDuration = 125;
+maxDuration = 275;
+minPassengers = 45;
+maxPassengers = 275;
